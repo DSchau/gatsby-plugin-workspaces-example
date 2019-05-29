@@ -1,0 +1,7 @@
+{
+  "name": "gatsby-source-example-data",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs-extra": "^8.0.1"
+  }
+}
